@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sb
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: littleblue
+Implementation-Vendor-Id: com.sb
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sb
+Created-By: Maven Integration for Eclipse
+
